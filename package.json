@@ -6,8 +6,9 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build UX221-Week3"
+    "build": "wp-pwa build UX221Week3"
     
     
   }
 }
+
